@@ -1,0 +1,7 @@
+sudo mkdir -p /data/db/
+
+sudo chown `id -u` /data/db
+
+sudo service mongod stop
+
+sudo mongod
