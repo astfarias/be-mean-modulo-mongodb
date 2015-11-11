@@ -30,7 +30,7 @@ autor: Alex Farias
     ```
 ## 5. Liste os pokemons existentes na sua coleção;
 
-    ```
+    ```<code>
  db.pokemons.find()
 {
   "_id": ObjectId("56439d6abdda6aabca5a7fd1"),
@@ -88,12 +88,13 @@ autor: Alex Farias
   "defense": 30,
   "height": 3.5
 }
-
+</code>
     ```
 ## 6. Busque o pokemons a sua escolha, pelo nome, e armazene-o em uma variável chamada `poke`;
 
 
     ```
+    <code>
 be-mean-pokemons> var query = {name:'Beedrill'}
 be-mean-pokemons> var poke = db.pokemons.findOne(query)
 be-mean-pokemons> poke
@@ -104,11 +105,13 @@ be-mean-pokemons> poke
   "attack": 50,
   "defense": 30,
   "height": 1
+  </code>
     
     ```
 ## 7. Modifique sua `description` e salvê-o
 
     ```
+    <code>
 be-mean-pokemons> poke.description = 'Zoeira, é do bem :D '
 be-mean-pokemons> poke
 {
@@ -119,7 +122,7 @@ be-mean-pokemons> poke
   "defense": 30,
   "height": 1
 }
-    
+    </code>    
     ```
 
 
