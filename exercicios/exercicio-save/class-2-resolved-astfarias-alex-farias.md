@@ -88,8 +88,10 @@ autor: Alex Farias
   "defense": 30,
   "height": 3.5
 }
+
     ```
 ## 6. Busque o pokemons a sua escolha, pelo nome, e armazene-o em uma variável chamada `poke`;
+
 
     ```
 be-mean-pokemons> var query = {name:'Beedrill'}
@@ -102,6 +104,7 @@ be-mean-pokemons> poke
   "attack": 50,
   "defense": 30,
   "height": 1
+    
     ```
 ## 7. Modifique sua `description` e salvê-o
 
@@ -116,6 +119,7 @@ be-mean-pokemons> poke
   "defense": 30,
   "height": 1
 }
+    
     ```
 
 
