@@ -5,6 +5,7 @@ autor: Alex Farias
 
     ```	
     show mongo be-mean-pokemons  	
+
     ```
 
 ## 2. Liste quais databases você possui nesse servidor;
@@ -13,6 +14,7 @@ autor: Alex Farias
     show dbs
     local            → 0.078GB
     be-mean-pokemons → 0.078GB
+
     ```
 
 ## 3. Liste quais coleções você possui nessa database;
@@ -21,16 +23,18 @@ autor: Alex Farias
     show collections
     pokemons       → 0.000MB / 0.008MB
     system.indexes → 0.000MB / 0.008MB
+
     ```
 ## 4. Insira pelo menos 5 pokemons A SUA ESCOLHA utilizando o mesmo padrão de campos utilizado: name, description, attack, defense e height;
 
     ```
     db.pokemons.find().count()
     7
+
     ```
 ## 5. Liste os pokemons existentes na sua coleção;
 
-    <code>
+    ```  
  db.pokemons.find()
 {
   "_id": ObjectId("56439d6abdda6aabca5a7fd1"),
@@ -88,12 +92,13 @@ autor: Alex Farias
   "defense": 30,
   "height": 3.5
 }
-</code>
+
+    ```
 
 ## 6. Busque o pokemons a sua escolha, pelo nome, e armazene-o em uma variável chamada `poke`;
 
+    ```
 
-    <code>
 be-mean-pokemons> var query = {name:'Beedrill'}
 be-mean-pokemons> var poke = db.pokemons.findOne(query)
 be-mean-pokemons> poke
@@ -104,13 +109,14 @@ be-mean-pokemons> poke
   "attack": 50,
   "defense": 30,
   "height": 1
-  </code>
+
+    ```
 
    
 ## 7. Modifique sua `description` e salvê-o
 
+    ```
 
-    <code>
 be-mean-pokemons> poke.description = 'Zoeira, é do bem :D '
 be-mean-pokemons> poke
 {
@@ -121,8 +127,8 @@ be-mean-pokemons> poke
   "defense": 30,
   "height": 1
 }
-    </code>    
 
+    ```
 
 
 
