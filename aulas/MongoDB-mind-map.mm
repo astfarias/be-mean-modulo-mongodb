@@ -1,22 +1,18 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#00cc00" CREATED="1447116067617" ID="ID_1426068092" MODIFIED="1447354964008">
+<node COLOR="#00cc00" CREATED="1447116067617" ID="ID_1426068092" MODIFIED="1447371603207">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <img src="../../mongodb-leaf.png" />
-      
-    </p>
     <p style="text-align: center">
       <font size="5"><b>MongoDB</b></font>
     </p>
   </body>
 </html>
 </richcontent>
-<node CREATED="1447120139179" FOLDED="true" ID="ID_327212150" MODIFIED="1447354882543" POSITION="right" TEXT="Comandos">
+<node CREATED="1447120139179" ID="ID_327212150" MODIFIED="1447371606402" POSITION="right" TEXT="Comandos">
 <icon BUILTIN="idea"/>
 <node CREATED="1447120142933" FOLDED="true" ID="ID_1648289094" MODIFIED="1447354871604" TEXT="Exporta&#xe7;&#xe3;o e Importa&#xe7;&#xe3;o">
 <node CREATED="1447120154231" FOLDED="true" ID="ID_222281954" MODIFIED="1447354865758" TEXT="mongoexport">
@@ -57,7 +53,7 @@
 </node>
 </node>
 <node CREATED="1447350135547" ID="ID_1359695565" MODIFIED="1447350139723" TEXT="Buscar UM">
-<node CREATED="1447350141655" ID="ID_969595795" MODIFIED="1447350256034" TEXT="db.[nome_colecao].find([JSON])">
+<node CREATED="1447350141655" FOLDED="true" ID="ID_969595795" MODIFIED="1447371625955" TEXT="db.[nome_colecao].find([JSON])">
 <node CREATED="1447350156559" ID="ID_1631924211" MODIFIED="1447350171904" TEXT="(Retorna Objeto Direto)">
 <node CREATED="1447350258486" ID="ID_1002221" MODIFIED="1447350273900" TEXT="[Obj].[Atributo]"/>
 </node>
