@@ -1,6 +1,6 @@
 
 # **Workshop BE-**
-![enter image description here](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
+#![enter image description here](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
 
 
 
