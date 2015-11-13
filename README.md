@@ -28,7 +28,7 @@
 
 ## Módulo MongoDB![icon-mongodb](http://www.axantweb.com/images/icons/mongo.png)
 
->[Aulas de MongoDB (Mapa Mental)](https://github.com/astfarias/be-mean-modulo-mongodb/blob/master/aulas/MongoDB-mind-map.mm "Aulas MongoDB - Mapa Mental")
+>[Aulas de MongoDB (Mapa Mental)](https://github.com/astfarias/be-mean-modulo-mongodb/blob/master/aulas/MongoDB-mind-map.mm "Aulas MongoDB - Mapa Mental") [(Use Free Mind)](http://sourceforge.net/projects/freemind/ "Download FreeMind")
 
 >[Aulas de MongoDB Oficiais (Vídeos)](https://github.com/Webschool-io/be-mean-instagram/wiki/M%C3%B3dulo-_--MongoDB "Aulas - MongoDB")
 
