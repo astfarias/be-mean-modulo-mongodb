@@ -3,11 +3,11 @@
 
 >![enter image description here](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
 >
->[Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING.
->Desenvolvimento de um Software similar ao Instagram
->Criado por Jean Carlo Nascimento
->Aluno: Alex da Silva Farias
->e-mail: astfarias@gmail.com
+>Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING&#013;
+Desenvolvimento de um Software similar ao Instagram.&#013;
+Curso criado por [Jean Carlo Nascimento.](https://www.linkedin.com/in/suissa "Linkedin Jean Carlos Nascimento")&#013;
+Aluno: [Alex da Silva Farias.](https://br.linkedin.com/in/astfarias "Linkedin Alex da Silva Farias")&#013;
+e-mail: astfarias@gmail.com. &#013;
 >
  - MongoDb
   - Teoria
