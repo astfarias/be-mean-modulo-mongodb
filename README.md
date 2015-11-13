@@ -40,6 +40,9 @@
 
 > 1. [Problemática](https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/class-01-resolved.md "Exercício-01 - MongoDB") | [Resolução](https://github.com/astfarias/be-mean-modulo-mongodb/blob/master/exercicios/class-01-resolved-astfarias-alex-farias.md "Exercício-02 - MongoDB - Resposta") 
  >2. [Problemática](https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/class-02-resolved.md "Exercício-02 - MongoDB") | [Resolução](https://github.com/astfarias/be-mean-modulo-mongodb/blob/master/exercicios/exercicio-save/class-2-resolved-astfarias-alex-farias.md "Exercício-02 -  MongoDB - Resposta")
+ > 3. [Problemática](https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/class-03-resolved.md "Exercício-03 - MongoDB") | [Resolução](https://github.com/astfarias/be-mean-modulo-mongodb/blob/master/exercicios/class-03-resolved-astfarias-alex-farias.md "Exercício-03 -  MongoDB - Resposta")
+
+
 
 ----------
 
