@@ -1,9 +1,7 @@
 
-# **Workshop BE-**
-#![enter image description here](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
+# **Workshop BE-MEAN**
 
-
-
+>![enter image description here](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
 >[Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING.
 >Desenvolvimento de um Software similar ao Instagram
 >Criado por Jean Carlo Nascimento
@@ -23,7 +21,6 @@
   - Agreggation Framework
   - GridFs
 > 
-
 
 ----------
 
